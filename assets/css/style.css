@@ -1,0 +1,59 @@
+body{
+    background: lightblue;
+    margin: 10px;
+}
+
+.header{
+    background: orange;
+    margin-bottom: 10px;
+}
+
+.text{
+    background: beige;
+    color: green;
+    margin-bottom: 10px;
+}
+.objectiveStats{
+
+}
+.random{
+    background: green;
+    width: 200px;
+    height: 100px;
+    float: left;
+    margin-right: 10px;
+    margin-bottom: 10px;
+
+}
+
+.stats{
+    background: aqua;
+    width: 80px;
+    height: 100px;
+    float: left;
+    margin-bottom: 10px;
+
+}
+
+#crystal{
+    margin-bottom: 10px;
+clear: both;
+}
+
+img{
+    width: 100px;
+    height: 100px;
+}
+
+.total-score{
+    background: teal;
+    margin-bottom: 10px;
+
+}
+
+#counter{
+    background: teal;
+    width: 100px;
+    height: 100px;
+
+}
