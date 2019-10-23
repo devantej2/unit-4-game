@@ -5,49 +5,79 @@ body{
 
 .header{
     background: orange;
+    margin: 0 auto;
     margin-bottom: 10px;
+    font-size: 30px;
+    color: whitesmoke;
+    padding: 20px;
+    text-align: center;
+    width: 960px;
 }
 
 .text{
     background: beige;
     color: green;
+    width: 960px;
+    margin: 0 auto;
     margin-bottom: 10px;
+    padding: 20px;
+    font-size: 18px;
+    box-sizing: border-box;
 }
 .objectiveStats{
+    width: 960px;
+    margin: 0 auto;
+    box-sizing: border-box;
 
 }
 .random{
     background: green;
-    width: 200px;
-    height: 100px;
+    width: 300px;
+    height: 200px;
     float: left;
     margin-right: 10px;
     margin-bottom: 10px;
-
+    text-align: center;
+    font-size: 50px;
+    box-sizing: border-box;
+    padding-top: 20px;
 }
 
 .stats{
     background: aqua;
-    width: 80px;
-    height: 100px;
+    width: 100px;
+    height: 120px;
     float: left;
     margin-bottom: 10px;
+    box-sizing: border-box;
+    line-height: 1.5;
+    padding: 20px;
 
 }
 
 #crystal{
+    width: 960px;
+    margin: 0 auto;
     margin-bottom: 10px;
-clear: both;
+    clear: both;
+    background: whitesmoke;
 }
 
 img{
+    
     width: 100px;
     height: 100px;
+    
 }
 
 .total-score{
     background: teal;
     margin-bottom: 10px;
+    width: 960px;
+    margin: 0 auto;
+    box-sizing: border-box;
+    font-size: 28px;
+    color: whitesmoke;
 
 }
 
@@ -55,5 +85,11 @@ img{
     background: teal;
     width: 100px;
     height: 100px;
+    font-size: 50px;
+    margin: 0 auto;
+    margin-top: 10px;
+    text-align: center;
+    padding-top: 30px;
+    box-sizing: border-box;
 
 }
