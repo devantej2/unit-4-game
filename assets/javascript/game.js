@@ -35,6 +35,7 @@ $(document).ready(function () {
         let value = ($(this).attr("data-crystalValue"));
         value = parseInt(value);
         userScore += value;
+
         $("#user-score").text(userScore);
         if (userScore === targetNumber) {
             alert("You win!");
